@@ -1,0 +1,2 @@
+# OjousamaTalkScriptDataset
+一般人とお嬢様の会話データセットです。MIT License
